@@ -1,0 +1,59 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align:center;
+    color: red;
+}
+
+#squareOrange{
+    margin: auto;  /*automatically set the margin boundaries and centers the item*/
+    border-style: double;
+    Width: 192px; /* sets width of square*/
+    Height: 192px; /* sets height of square*/
+    background-color: orange;
+}
+
+#squareRed{
+    margin: auto;  /*automatically set the margin boundaries and centers the item*/
+    border-style: double;
+    Width: 192px; /* sets width of square*/
+    Height: 192px; /* sets height of square*/
+    background-color: red;
+}
+
+#squareBlue{
+    margin: auto;  /*automatically set the margin boundaries and centers the item*/
+    border-style: double;
+    Width: 192px; /* sets width of square*/
+    Height: 192px; /* sets height of square*/
+    background-color: blue;
+}
+
+#squareGreen{
+    margin: auto;  /*automatically set the margin boundaries and centers the item*/
+    border-style: double;
+    Width: 192px; /* sets width of square*/
+    Height: 192px; /* sets height of square*/
+    background-color: green;
+}
+
+#squareYellow{
+    margin: auto;  /*automatically set the margin boundaries and centers the item*/
+    border-style: double;
+    Width: 192px; /* sets width of square*/
+    Height: 192px; /* sets height of square*/
+    background-color: yellow;
+}
+
+h5{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: firebrick;
+}
